@@ -3,3 +3,8 @@ datasheets
 matlab
 misc
 geogebra
+arduino/.pioenvs
+arduino/.clang_complete
+arduino/.gcc-flags.json
+arduino/Leonardo_pinout.jpg
+arduino/.piolibdeps
